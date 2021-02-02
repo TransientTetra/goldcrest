@@ -54,6 +54,7 @@ Before you do, please look through the guidelines in doc/guidelines.
 For an instruction on how to contribute refer to the [workflow guideline](doc/guidelines/workflow.md).
 
 ## License
+GoldCrest is licensed under MIT license, details in the LICENSE file.
 
 ## Contact
 - Owner: msperkow
