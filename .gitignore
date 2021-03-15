@@ -41,3 +41,7 @@ cmake-build-release-coverage/
 cmake-build-debug-coverage/
 build/
 bin/
+
+# Visual studio specifics
+CMakeSettings.json
+.vs/
